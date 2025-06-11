@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Macaco Prego",
+    "description": "Macaco fumante",
+    "price": 100.00,
+    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1281572024905871361/pu/img/Q2a_dGQpThUbqUb9.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pinscher",
+    "description": "Apesar do rosto simpático não se engane...",
+    "price": 100.00,
+    "image": "https://i.pinimg.com/474x/b9/cc/51/b9cc51f209c3a3909cde62934df92331.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Gato",
+    "description": "-_-",
+    "price": 100.00,
+    "image": "https://media.tenor.com/k42KQhpwtOgAAAAe/gato-desconfiado.png"
+  }
+]
